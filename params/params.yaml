@@ -1,0 +1,7 @@
+# Yaml file params
+---
+ param1: "1"
+ param2: "2"
+ param3: "3"
+ param4: "4"
+---
