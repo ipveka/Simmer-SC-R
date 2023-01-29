@@ -3,11 +3,11 @@
 
 # Packages: Packages for the project
 
-source("auxiliar/packages.R")
+source("r-code/auxiliar/packages.R")
 
 # Auxiliar: Working directory and Secrets
 
-source("auxiliar/auxiliar.R")
+source("r-code/auxiliar/auxiliar.R")
 
 # Connections: To connect to dB
 

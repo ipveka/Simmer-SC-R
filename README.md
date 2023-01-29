@@ -1,6 +1,4 @@
 
-# Main-Workflow
+# Simmer in R
 
-Template for projects in R
-
-#---
+Testing Simmer in R
