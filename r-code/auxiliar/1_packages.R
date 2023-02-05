@@ -11,7 +11,7 @@ pacman::p_load(rstudioapi, devtools, utils, rJava)
 
 # Data Wrangling
 
-pacman::p_load(tidyverse, lubridate, janitor, tibble)
+pacman::p_load(tidyverse, lubridate, janitor, tibble, data.table)
 
 # Visualization
 
@@ -29,5 +29,12 @@ pacman::p_load(RJDBC, DBI, RAthena)
 # Other
 
 pacman::p_load(purrr, yaml)
+
+# Simmer
+
+pacman::p_load(simmer, 
+               simmer.plot, 
+               simmer.bricks
+)
 
 #---
